@@ -1,0 +1,33 @@
+button.btn-primary{
+    background-color: darkcyan;
+    
+}
+
+button.btn-primary:hover,button.btn-primary:hover{
+    background-color: blue;
+    font-family: monospace;
+    
+}
+
+div.col-4{
+    color: black;
+    text-align: center;
+    
+
+}
+a.btn-primary{
+    background-color:whitesmoke;
+    color:black;
+    font-family: Arial, Helvetica, serif ; 
+ 
+}
+
+div.card-body{
+    background-color: rgb(8, 179, 179);
+}
+
+a.btn-primary:hover,button.btn-primary:hover{
+    background-color:rgb(69, 69, 219)141, 141, 156;
+    color: rgb(0, 252, 231);
+    font-family: monospace;
+}

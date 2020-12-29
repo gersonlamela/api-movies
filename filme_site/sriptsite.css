@@ -1,0 +1,25 @@
+div.col-12{
+    background-color:rgb(69, 69, 219)141, 141, 156;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, serif;
+    font-size: large;
+}
+div.col-3{
+    background-color: rgb(27, 221, 221);
+    text-align: left;
+    font-family: Arial,serif;
+    
+
+}
+
+div.movie{
+
+    background-color: rgb(27, 221, 221);
+}
+
+img.circle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
